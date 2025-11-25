@@ -36,10 +36,8 @@ I love turning abstract ideas into fully functional tools — especially when th
 ### **Programming & Tools**
 - 🐍 Python (Streamlit, automation, NLP, backend)
 - 🌐 HTML, CSS, JavaScript  
-- 🟣 PHP (CRUD apps, backend logic)
 - 🛢️ MySQL, Supabase (SQL, schemas, queries)
-- 🛠️ Git, GitHub, XAMPP, Anaconda, VS Code, Spyder  
-- 📦 Docker (learning stage)  
+- 🛠️ Git, GitHub, Anaconda, VS Code, Spyder  
 
 ### **AI / Machine Learning**
 - LLM Integration (OpenAI, Google AI Studio, Ollama)  
