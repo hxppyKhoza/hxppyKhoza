@@ -62,20 +62,7 @@ I love turning abstract ideas into fully functional tools — especially when th
 - 🎨 Better front-end UI/UX in Streamlit  
 - 📊 Automatic data visualization tools  
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HappyKhoza&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HappyKhoza&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappyKhoza&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🧩 Technologies & Tools
 
