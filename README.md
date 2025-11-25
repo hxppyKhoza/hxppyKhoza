@@ -55,45 +55,11 @@ I love turning abstract ideas into fully functional tools — especially when th
 - Data processing pipelines  
 - Local AI deployment setups  
 
----
-
-## 🛠️ Highlighted Projects
-
-### **🎙️ IELTS Speaking Practice App**
-A fully functional AI-powered tool built with:
-- Google Speech-to-Text  
-- Google Text-to-Speech  
-- Custom Python scoring engine  
-- spaCy NLP scoring  
-- Streamlit UI  
-- Automated report generation  
-
-> A complete end-to-end AI speaking assistant.
-
----
-
-### **🧩 Reporting Summary Agent**
-A tool that:
-- Reads corporate reports (PDF / text)
-- Extracts key data  
-- Summarises content using LLMs  
-- Adds historical + contextual insights  
-- Generates structured summaries  
-- (Upcoming) Auto-generate charts  
-
----
-
-### **🍟 Mega Fish & Chips eCommerce Website**
-- Product listing  
-- Search bar filtering  
-- Shopping cart system  
-- PHP + MySQL backend  
 
 ---
 
 ## 📚 Currently Learning
 - 🚀 FastAPI  
-- 🐳 Docker containerization  
 - 🧠 Local AI pipelines (Ollama)  
 - 🎨 Better front-end UI/UX in Streamlit  
 - 📊 Automatic data visualization tools  
@@ -123,9 +89,9 @@ A tool that:
 
 ## 📫 Contact Me
 
-- 📧 Email: *add yours here*  
-- 🔗 LinkedIn: *your profile link*  
-- 🌍 Portfolio: (optional)
+- 📧 Email: *Hkhozx@gmail.com*  
+- 🔗 LinkedIn: *www.linkedin.com/in/happy-khoza-47847a247*  
+- 🌍 Portfolio: (coming soon...)
 
 ---
 
@@ -135,10 +101,6 @@ A tool that:
 - I like simplifying complicated systems  
 - Creativity + Logic is my favourite combo  
 
----
-
-## ⭐ If you like my work…
-Give a star ⭐ to any repo you find useful — it helps a lot!
 
 
 <!--
