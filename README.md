@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <span style="color:#2F80ED;">Happy Khoza</span></h1>
-<h3 align="center">•BI ANALYST •DATA ENGINEER •AI Integrator • Python Developer • Automation Enthusiast</h3>
+<h3 align="center">•AI Integrator • Python Developer • Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Integrator-%F0%9F%A4%96-blue?style=for-the-badge" />
